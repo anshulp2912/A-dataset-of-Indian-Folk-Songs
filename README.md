@@ -24,7 +24,7 @@ to be manually labeled.
 <h3>Current Status</h3>
 <ul>
   <li>Audio in 5 Indian Languages</li>
-  <li>307 songs and 1807 audio clips distributed per category</li>
+  <li>307 songs and 1807 audio clips</li>
   <br>
   <table>
     <tr>
