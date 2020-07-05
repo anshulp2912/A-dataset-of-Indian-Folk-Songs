@@ -28,7 +28,7 @@ def stft(sig, frameSize, overlapFac=0.5, window=np.hanning):
     return np.fft.rfft(frames)
 
 
-def logscale_spec(spec, sr=22050, factor=20.):
+def logscale_spec(spec, sr=44100, factor=20.):
     timebins, freqbins = np.shape(spec)
 
     scale = np.linspace(0, 1, freqbins) ** factor
@@ -56,7 +56,7 @@ def logscale_spec(spec, sr=22050, factor=20.):
 
 
 def plotstft(audiopath, filepath, binsize=2 ** 8, colormap="jet"):
-    samples, samplerate = librosa.load(audiopath, sr=22050)
+    samples, samplerate = librosa.load(audiopath, sr=44100)
     s = stft(samples, binsize)
 
     sshow, freq = logscale_spec(s, factor=1.0, sr=samplerate)
