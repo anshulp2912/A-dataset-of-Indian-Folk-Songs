@@ -39,4 +39,6 @@ kindly cite following paper
 <i>- accepted at FRSM 2020 (citation details will be
 available after publication)</i>
 
-<a class="link-gray" href="#url">link-gray</a>
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
