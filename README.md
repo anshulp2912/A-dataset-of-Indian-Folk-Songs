@@ -21,6 +21,14 @@ musical instrument classification (c) language
 classification. Except for the first case, classes have
 to be manually labeled.
 
+<h3>Current Status</h3>
+<ul>
+  <li>Audio in 5 Indian Languages</li>
+  <li>audio files distributed per category</li>
+  <table>
+  </table>
+</ul>
+
 <h3>Organization</h3>
 Files are named in the following format: <b style='color:red'>{Language}{FileNumber}chunk({chunkIndex}).wav</b> Example: Assamese100chunk(0).wav
 
@@ -38,7 +46,3 @@ If you are using this database for your research,
 kindly cite following paper
 <i>- accepted at FRSM 2020 (citation details will be
 available after publication)</i>
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
