@@ -24,32 +24,38 @@ to be manually labeled.
 <h3>Current Status</h3>
 <ul>
   <li>Audio in 5 Indian Languages</li>
-  <li>audio files distributed per category</li>
+  <li>307 songs and 1807 audio clips distributed per category</li>
   <br>
   <table>
     <tr>
       <th>Language</th>
-      <th>Number of Audio Chunks</th>
+      <th>Number of Songs</th>
+      <th>Number of Clips</th>
     </tr>
     <tr>
       <td>Assamese</td>
-      <td>x</td>
+      <td>141</td>
+      <td>798</td>
     </tr>
     <tr>
       <td>Uttarakhandi</td>
-       <td>x</td>
+      <td>29</td>
+      <td>17r</td>
     </tr>
     <tr>
       <td>Kashmiri</td>
-      <td>x</td>
+      <td>39</td>
+      <td>241</td>
     </tr>
     <tr>
       <td>Kannada</td>
-      <td>x</td>
+      <td>63</td>
+      <td>384</td>
     </tr>
     <tr>
       <td>Marathi</td>
-      <td>x</td>
+      <td>35</td>
+      <td>210</td>
     </tr>
   </table>
 </ul>
