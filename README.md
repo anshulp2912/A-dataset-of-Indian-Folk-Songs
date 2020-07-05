@@ -26,6 +26,11 @@ to be manually labeled.
   <li>Audio in 5 Indian Languages</li>
   <li>audio files distributed per category</li>
   <table>
+    <tr>
+      <td>Language</td>
+      <td>Number of Audio Files</td>
+    </tr>
+    
   </table>
 </ul>
 
