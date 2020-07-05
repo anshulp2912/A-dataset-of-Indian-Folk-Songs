@@ -40,7 +40,7 @@ to be manually labeled.
     <tr>
       <td>Uttarakhandi</td>
       <td>29</td>
-      <td>17r</td>
+      <td>174</td>
     </tr>
     <tr>
       <td>Kashmiri</td>
