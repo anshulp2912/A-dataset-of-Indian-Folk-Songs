@@ -22,7 +22,7 @@ classification. Except for the first case, classes have
 to be manually labeled.
 
 <h3>Organization</h3>
-Files are named in the following format: <style ="background-color:grey;">{Language}{FileNumber}chunk({chunkIndex}).wav</style> Example: Assamese100chunk(0).wav
+Files are named in the following format: <p style ="background-color:grey;"/>{Language}{FileNumber}chunk({chunkIndex}).wav</p> Example: Assamese100chunk(0).wav
 
 <h3>Acknowledgement</h3>
 This database has been collected through various
