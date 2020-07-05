@@ -25,3 +25,13 @@ to be manually labeled.
 This database has been collected through various
 publicly available websites and other online
 resources.
+
+<h3>Usage</h3>
+This database is open for use for any academic or
+research purpose.
+
+<h3>Citation</h3>
+If you are using this database for your research,
+kindly cite following paper:
+<i>- accepted at FRSM 2020 (citation details will be
+available after publication)</i>
