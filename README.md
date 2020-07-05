@@ -22,7 +22,7 @@ classification. Except for the first case, classes have
 to be manually labeled.
 
 <h3>Organization</h3>
-Files are named in the following format: <div class="text-blue mb-2">
+Files are named in the following format: <div color=#f6f8fa>
   .text-blue on white
 </div> {Language}{FileNumber}chunk({chunkIndex}).wav Example: Assamese100chunk(0).wav
 
