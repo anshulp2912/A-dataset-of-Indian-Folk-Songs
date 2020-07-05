@@ -64,13 +64,13 @@ to be manually labeled.
 Files are named in the following format: <i>{Language}{FileNumber}chunk({chunkIndex}).wav</i> Example: Assamese100chunk(0).wav
 
 <h3>Metadata</h3>
-utils/metadata.py contains meta-data regarding the song languages and region of India.
+<b><i>metadata.py</i></b> contains meta-data regarding the song languages and region of India.
 
 <h3>Included Utilities</h3>
-featurevector.py Used to generate Mean, Median and Standard Deviation of the 19 features of each audio file and convert them into a csv.<br><br>
-melspectogram.py Convert audio data into melSpectogram Visualisation for all categories. <br><br>
-mfcc_visual.py Used to convert the mfcc audio features into Visual representation. <br><br>
-spectogram.py Convert audio data into Spectograms, used often as a preprocessing step.
+<b><i>featurevector.py</i></b> Used to generate Mean, Median and Standard Deviation of the 19 features of each audio file and convert them into a csv.<br><br>
+<b><i>melspectogram.py</i></b> Convert audio data into melSpectogram Visualisation for all categories. <br><br>
+<b><i>mfcc_visual.py</i></b> Used to convert the mfcc audio features into Visual representation. <br><br>
+<b><i>spectogram.py</i></b> Convert audio data into Spectograms, used often as a preprocessing step.
 
 <h3>Acknowledgement</h3>
 This database has been collected through various
