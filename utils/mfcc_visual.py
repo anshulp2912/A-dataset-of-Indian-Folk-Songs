@@ -14,7 +14,7 @@ def wav_to_mfccvisual(audio_path, save_path):
     :param audio_path: path of the wav file
     :param save_path: path where the generated MFCC Visualisation is to  be saved.
     """
-    sample, sample_rate = librosa.load(audio_path)
+    sample, sample_rate = librosa.load(audio_path, sr=44100)
     mfcc_features = librosa.feature.mfcc(sample, sample_rate, n_mfcc=13)
     plt.figure(figsize=(15, 7.5))
     librosa.display.specshow(mfcc_features)
