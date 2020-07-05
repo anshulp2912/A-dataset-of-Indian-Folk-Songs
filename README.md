@@ -21,7 +21,7 @@ musical instrument classification (c) language
 classification. Except for the first case, classes have
 to be manually labeled.
 
-<h2>Acknowledgement</h2>
+<h3>Acknowledgement</h3>
 This database has been collected through various
 publicly available websites and other online
 resources.
