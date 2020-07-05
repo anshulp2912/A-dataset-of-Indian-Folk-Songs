@@ -17,7 +17,7 @@ def calc_features(audio_path):
     :param audio_path: path of the wav file
     """
     features = []
-    sample, sample_rate = librosa.load(audio_path, 44100)
+    sample, sample_rate = librosa.load(audio_path, sr=44100)
     chroma_stft = lf.chroma_stft(sample, sample_rate)
     features.append(chroma_stft)
     rmse = lf.rmse(sample)
