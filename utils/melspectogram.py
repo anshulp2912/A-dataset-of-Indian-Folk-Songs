@@ -15,7 +15,7 @@ def wav_to_melspectrogram(audio_path, save_path):
     :param audio_path: path of the wav file
     :param save_path: path where the generated MelSpectogram is to  be saved.
     """
-    sample, sample_rate = librosa.load(audio_path)
+    sample, sample_rate = librosa.load(audio_path, sr=44100)
     mel_features = librosa.feature.melspectrogram(sample, sample_rate)
     plt.figure(figsize=(15, 7.5))
     S_dB = librosa.power_to_db(mel_features, ref=np.max)
