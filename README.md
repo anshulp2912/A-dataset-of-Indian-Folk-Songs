@@ -61,7 +61,7 @@ to be manually labeled.
 </ul>
 
 <h3>Organization</h3>
-Files are named in the following format: <b style='color:red'>{Language}{FileNumber}chunk({chunkIndex}).wav</b> Example: Assamese100chunk(0).wav
+Files are named in the following format: <i>{Language}{FileNumber}chunk({chunkIndex}).wav</i> Example: Assamese100chunk(0).wav
 
 <h3>Acknowledgement</h3>
 This database has been collected through various
